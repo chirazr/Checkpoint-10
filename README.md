@@ -1,6 +1,8 @@
-#      Install NodeJS and VSCode
+#     React : our first contact
 
-## we will
+## We will
+
+* Install NodeJS and VSCode
 
 ** Create a react-app using the command 
  `npx create-react-app <project-name>` (make sure to replace <project-name> with your project name).
